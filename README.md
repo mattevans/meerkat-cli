@@ -1,9 +1,6 @@
 # meerkat-cli
 
-[![GoDoc](https://godoc.org/github.com/mattevans/meerkat-cli?status.svg)](https://godoc.org/github.com/mattevans/meerkat-cli)
 [![Build Status](https://travis-ci.com/mattevans/meerkat-cli.svg?token=bZj2CzzcMpMzFxr9hzex&branch=master)](https://travis-ci.org/mattevans/meerkat-cli)
-[![Go Report Card](https://goreportcard.com/badge/github.com/mattevans/meerkat-cli)](https://goreportcard.com/report/github.com/mattevans/meerkat-cli)
-
 
 CLI based Toy Robot Simulator written in Go.
 
